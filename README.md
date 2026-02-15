@@ -14,7 +14,7 @@ Personal PROFILE CARD with links to Github, LinkedIn, Whatsapp and Gmail - built
   * Font Awesome Icons.
 
 ### Getting Started
-    git clone https://github.com/olatundeEmmanuelTantolorun/emmanuel-emmanuel-ProfileCard.git
+    git clone https://github.com/OlatundeEmmanuelTantolorun/emmanuel-emmanuel-ProfileCard.git
     cd emmanuel-ProfileCard
     open index.html
 
