@@ -18,7 +18,7 @@ Personal PROFILE CARD with links to Github, LinkedIn, Whatsapp and Gmail - built
     cd emmanuel-ProfileCard
     open index.html
 
-  '''bash
-  git add README.md
-  git commit -m "polish README"
-  git push
+'''bash
+ - git add README.md
+ - git commit -m "polish README"
+ - git push
