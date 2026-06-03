@@ -335,7 +335,7 @@ body {
   }
 
   .card-body {
-    width: 100%; /* Resets cleanly to full container bounds on mobile streams */
+    width: 100%;
   }
 
   .card-bg {
